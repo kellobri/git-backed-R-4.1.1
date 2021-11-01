@@ -17,7 +17,7 @@ vars <- setdiff(names(penguin_data), c("species","island"))
 ui <- fluidPage(
     tabsetPanel(id = "tabs",
                 tabPanel("Cluster",
-                         titlePanel("Palmer Penguins k-means clustering"),
+                         titlePanel("Kelly's Palmer Penguins k-means clustering"),
                          sidebarPanel(
                                       selectInput('xcol', 'X Variable', vars),
                                       selectInput('ycol', 'Y Variable', vars, selected = vars[[2]]),
