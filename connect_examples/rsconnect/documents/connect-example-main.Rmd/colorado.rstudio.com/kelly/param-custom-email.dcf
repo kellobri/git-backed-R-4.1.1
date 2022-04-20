@@ -1,0 +1,13 @@
+name: param-custom-email
+title: param-custom-email
+username: kelly
+account: kelly
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 11193
+bundleId: 55455
+url: https://colorado.rstudio.com/rsc/content/88b8a454-fd51-4c22-9c48-8d7f74fdadfd/
+when: 1650426610.58511
+lastSyncTime: 1650426610.58513
+asMultiple: FALSE
+asStatic: FALSE
